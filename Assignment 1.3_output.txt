@@ -1,0 +1,11 @@
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 10:21:59) [MSC v.1900 32 bit (Intel)]
+Type "copyright", "credits" or "license" for more information.
+
+IPython 6.2.1 -- An enhanced Interactive Python.
+
+runfile('C:/Users/zabiulla.khan/Assignments/Assignment 1.3.py', wdir='C:/Users/zabiulla.khan/Assignments')
+
+Enter your first name:Zabiulla
+
+Enter your last name:Khan
+nahK alluibaZ
